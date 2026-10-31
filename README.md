@@ -22,8 +22,20 @@
 
 ## 📂 Projetos
 
-Em breve, compartilharei aqui meus projetos acadêmicos e pessoais.
+### 🏎️ [Sistema de Banco de Dados — Fórmula 1](https://github.com/leticiamoura-tech/banco-de-dados-formula1)
+
+Projeto acadêmico de modelagem e implementação de banco de dados utilizando MySQL.
+
+**Tecnologias utilizadas:** MySQL e MySQL Workbench.
+
+**O que foi desenvolvido:**
+- Criação de tabelas.
+- Definição de chaves primárias e estrangeiras.
+- Relacionamento entre tabelas.
+- Inserção e consulta de dados.
 
 ## 📫 Contato
 
 - GitHub: https://github.com/leticiamoura-tech
+- LinkedIn: https://www.linkedin.com/in/leticia-maria-de-oliveira-moura-3b8312434=share_via&utm_content=profile&utm_medium=member_ios
+- E-mail: leticiamoura.tech@gmail.com

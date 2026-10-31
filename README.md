@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Eu sou a Leticia Moura 👋
 
-<!--
-**leticiamoura-tech/leticiamoura-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+💻 Estou desenvolvendo meus conhecimentos em programação, SQL e desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 📚 Atualmente estudando Análise e Desenvolvimento de Sistemas.
+- 🗄️ Aprendendo modelagem de dados e SQL.
+- 🌐 Interessada em desenvolvimento web.
+- 🎯 Meu objetivo é evoluir na área de tecnologia e desenvolver projetos práticos.
+
+## 🛠️ Tecnologias e ferramentas
+
+- C
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+
+## 📂 Projetos
+
+Em breve, compartilharei aqui meus projetos acadêmicos e pessoais.
+
+## 📫 Contato
+
+- GitHub: https://github.com/leticiamoura-tech

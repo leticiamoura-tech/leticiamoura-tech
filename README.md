@@ -41,28 +41,28 @@ Projeto acadêmico de modelagem e implementação de banco de dados utilizando M
 - E-mail: leticiamoura.tech@gmail.com
 
 
-## Reflexão sobre o benchmarking
+**Reflexão sobre o benchmarking**
 
-Durante a pesquisa de perfis profissionais no GitHub, observei diferentes formas de apresentar projetos e experiências na área de tecnologia.
+Ao analisar 10 perfis profissionais no GitHub, identifiquei padrões importantes na organização de portfólios na área de tecnologia.
 
-Percebi que perfis bem organizados possuem informações claras sobre formação, conhecimentos e objetivos profissionais.
+Observei que os perfis mais organizados apresentam uma descrição clara sobre o profissional, sua formação e suas habilidades.
 
-Também observei a importância de utilizar um README para apresentar o desenvolvedor e seus principais projetos.
+Também percebi que os READMEs são utilizados para apresentar o desenvolvedor e destacar seus principais projetos.
 
-Os repositórios apresentam nomes objetivos e descrições que explicam a finalidade de cada projeto.
+Os repositórios possuem nomes objetivos e descrições que facilitam o entendimento de cada projeto.
 
-A documentação se destacou pelas informações sobre tecnologias utilizadas e instruções de execução.
+Outra prática relevante foi a utilização de documentação com tecnologias utilizadas e instruções para executar os projetos.
 
-Observei também a presença de arquivos LICENSE e .gitignore.
+Também identifiquei o uso de arquivos LICENSE e .gitignore para organizar e documentar os repositórios.
 
-Com essa pesquisa, entendi que o GitHub funciona como um portfólio profissional.
+Para organizar meu próprio GitHub, utilizei essas práticas como referência.
 
-A partir das referências pesquisadas, organizei meu perfil com informações acadêmicas e profissionais.
+Atualizei meu perfil com informações acadêmicas, tecnologias que estou estudando e formas de contato.
 
-Atualizei meu README, publiquei projetos de banco de dados e desenvolvimento web e adicionei arquivos de documentação.
+Organizei meus repositórios para destacar os projetos desenvolvidos durante o curso de ADS.
 
-Também organizei meus repositórios fixados para destacar meus trabalhos.
+Também criei READMEs com descrições, tecnologias utilizadas e orientações sobre os projetos.
 
-Essa experiência me ajudou a compreender a importância de manter um portfólio atualizado e bem documentado.
+Com essa experiência, compreendi a importância de manter um GitHub organizado, atualizado e bem documentado.
 
-Pretendo continuar aprimorando meu GitHub durante o curso de Análise e Desenvolvimento de Sistemas.
+Pretendo continuar aprimorando meu portfólio para apresentar minha evolução como estudante e futura profissional da tecnologia.
